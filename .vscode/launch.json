@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/ProgrammingInPractice/Week1",
-      "program": "c:/ProgrammingInPractice/Week1/build/Debug/outDebug",
+      "cwd": "c:/Users/Andrew/Documents/ProgamminginPractice/Week3",
+      "program": "c:/Users/Andrew/Documents/ProgamminginPractice/Week3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
